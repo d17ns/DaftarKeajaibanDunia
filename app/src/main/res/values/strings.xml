@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daftar Keajaiban Dunia</string>
+    <string name="keajaiban1">Great Wall of China</string>
+    <string name="keajaiban2">Chichén Itzá</string>
+    <string name="keajaiban3">Petra</string>
+    <string name="keajaiban4">Machu Picchu</string>
+    <string name="keajaiban5">Christ the Redeemer</string>
+    <string name="keajaiban6">Colosseum</string>
+    <string name="keajaiban7">Taj Mahal</string>
+
+    <string name="action_switch_layout">Switch Layout</string>
+</resources>
