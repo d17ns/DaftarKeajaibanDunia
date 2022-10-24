@@ -3,9 +3,13 @@ package com.d17ns.daftarkeajaibandunia
 import com.d17ns.daftarkeajaibandunia.R
 import com.d17ns.daftarkeajaibandunia.Keajaiban
 
+//class Source untuk deklarasi data list / isi dari aplikasi
 class Source() {
 
+    //function loadKeajaiban
     fun loadKeajaiban(): List<Keajaiban> {
+
+        //memanggil data dari string dan drawable
         return listOf<Keajaiban>(
             Keajaiban(R.string.keajaiban1, R.drawable.keajaiban1),
             Keajaiban(R.string.keajaiban2, R.drawable.keajaiban2),
