@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.d17ns.daftarkeajaibandunia.R
 import com.d17ns.daftarkeajaibandunia.Keajaiban
 
-//class DaftarAdapter untuk menampilkan halaman utama aplikasi
+//class DaftarAdapter untuk menampilkan isi dari halaman utama aplikasi
 class DaftarAdapter(private val context: Context)
     : RecyclerView.Adapter<DaftarAdapter.DaftarViewHolder>() {
 
